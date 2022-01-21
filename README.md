@@ -6,4 +6,4 @@ Voici les fichiers de mon Tutoriel sur l'utilisation de l'API Twitch, sur http:/
 Bonne lecture !
 
 ## EN
-How to use the Twitch API
+How to use the Twitch API with demos.
